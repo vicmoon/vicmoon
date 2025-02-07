@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 -🔭 I’m currently working on :  a capstone project that is centered around habit formation <br>
 -🌱 I’m currently learning : Python <br>
--📫 How to reach me: check my portfolio : https://victoriamunteanuportfolio.net/contact or my contact card :  https://pythonnamecard-production.up.railway.app/ <br>
--⚡ Fun fact: one of my goals this year is to read 100 books! <br>
+-📫 How to reach me: check my portfolio : <a href="https://victoriamunteanuportfolio.net/contact"> Portfolio />  or my contact card :  <a href="https://pythonnamecard-production.up.railway.app/" /> Card <br>
+-⚡ Fun fact: one of my goals this year is to read 100 books! Check my progress : <a href="https://pythonsqliteandsqlalchemy-production.up.railway.app/">  <br>
 
 
 
