@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--🔭 I’m currently working on :  a capstone project that is centered around habit formation 
--🌱 I’m currently learning : Python 
--📫 How to reach me: check my portfolio : https://victoriamunteanuportfolio.net/contact or my contact card :  https://pythonnamecard-production.up.railway.app/ 
--⚡ Fun fact: one of my goals this year is to read 100 books! 
+-🔭 I’m currently working on :  a capstone project that is centered around habit formation <br>
+-🌱 I’m currently learning : Python <br>
+-📫 How to reach me: check my portfolio : https://victoriamunteanuportfolio.net/contact or my contact card :  https://pythonnamecard-production.up.railway.app/ <br>
+-⚡ Fun fact: one of my goals this year is to read 100 books! <br>
 
 
 
