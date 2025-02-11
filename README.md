@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on : planning a capstone project that is centered around habits <br>
+🔭 I’m currently working on : a capstone project that is centered around habits tracking, habit formation <br>
 🌱 I’m currently learning : Python 🐍 <br> 
 📫 How to reach me: Check my portfolio: 
 <a href="https://victoriamunteanuportfolio.net/contact">Portfolio</a> 
