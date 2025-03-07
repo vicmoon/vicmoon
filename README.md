@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 or my contact card: 
 <a href="https://pythonnamecard-production.up.railway.app/">Card</a> 
 <br>
-⚡ Fun fact: One of my goals this year is to read 80 or more books! Check my progress: 
-<a href="https://pythonsqliteandsqlalchemy-production.up.railway.app/">Progress</a> You can also read my thoughs on my blog: 
+⚡ Fun fact: One of my goals this year is to read 80 or more books You can read my thoughs about those books on my blog: 
 <a href="https://www.bitsandscribbles.com/api/v1/posts/" > Bits && Scribbles </a>
 <br>
 
