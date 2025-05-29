@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on : a capstone project that is centered around habits tracking, habit formation <br>
-🌱 I’m currently learning : Python 🐍 <br> 
+🔭 I’m currently working on : a project that is centered around habits tracking, habit formation and different smaller projects in ServiceNow <br> 
+🌱 I’m currently learning : Python 🐍, ServiceNow, Backend <br> 
 📫 How to reach me: Check my portfolio: 
 <a href="https://victoriamunteanuportfolio.net/contact">Portfolio</a> 
 or my contact card: 
