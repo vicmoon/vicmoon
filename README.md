@@ -25,14 +25,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on : a project that is centered around habits tracking, habit formation and different smaller projects in ServiceNow <br> 
 🌱 I’m currently learning : Python 🐍, ServiceNow, Backend <br> 
-📫 How to reach me: Check my portfolio: 
-<a href="https://victoriamunteanuportfolio.net/contact">Portfolio</a> 
-or my contact card: 
-<a href="https://pythonnamecard-production.up.railway.app/">Card</a> 
-<br>
-⚡ Fun fact: One of my goals this year is to read 80 or more books. You can read about it on my blog: 
-<a href="https://www.bitsandscribbles.com/api/v1/posts/" > Bits && Scribbles </a>
-<br>
+⚡ Fun fact: One of my goals this year is to read 80 or more books. 
 
 
 
