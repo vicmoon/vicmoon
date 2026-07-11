@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on : a project that is centered around habits tracking, habit formation and different smaller projects in ServiceNow <br> 
-🌱 I’m currently learning : Python 🐍, ServiceNow, Backend <br> 
-⚡ Fun fact: One of my goals this year is to read 80 or more books. 
+🔭 I’m currently working on : Web Development using among others, Webflow and on ServiceNow Projects <br> 
+🌱 I’m currently learning :  ServiceNow, Knitting, Webflow <br> 
+
 
 
 
