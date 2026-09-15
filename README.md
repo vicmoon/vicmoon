@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on : Web Development using among others, Webflow and on ServiceNow Projects <br> 
-🌱 I’m currently learning :  ServiceNow, Knitting, Webflow <br> 
+🔭 I’m currently working on : Web Development using, among others, Webflow. I am also developing on ServiceNow Projects as part of enterprise projects. <br> 
+🌱 I’m currently learning :  ServiceNow, Crochet, Webflow <br> 
 
 
 
